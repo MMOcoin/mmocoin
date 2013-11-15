@@ -1,3 +1,2 @@
-FooCoin (FOO)
-
-Blah, blah, blah.
+MMOcoin (MMO)
+This is just an experiment as of now.
